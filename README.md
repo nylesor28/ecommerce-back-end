@@ -93,6 +93,13 @@ Use Insomnia for the following routes:
 5. To delete a products <br /> 
     DELETE http://localhost:3001/api/products/:id
 
+## ​Walkthough Videos
+Viewo Walkthrough (Setup): https://drive.google.com/file/d/1jIhz6YKpInDHb0-DwsBMhbSkFH7qZTuG/view?usp=sharing
+Video Walkthrough (Category): https://drive.google.com/file/d/1WELbIeXSHcoCjP2xnLVGsDGu-VVDAXa-/view?usp=sharing
+Video Walkthrough (Products): https://drive.google.com/file/d/1Pj7_H-tzbqSjYwWv2PR1O99CaT4LWojj/view?usp=sharing
+Video Walkthrough (Tags): https://drive.google.com/file/d/1ExlYJNwD3aElySSO9UumRMdlRPPeDshl/view?usp=sharing
+
+
 ## ​Contributors
 * Starter Code Can Be found at: <https://github.com/coding-boot-camp/fantastic-umbrella>
 
@@ -101,6 +108,6 @@ Use Insomnia for the following routes:
 For Issues please create a github issue for the repository
 
  
-  ## License
-  This  project is currently unlicensed 
+## License
+This  project is currently unlicensed 
 
